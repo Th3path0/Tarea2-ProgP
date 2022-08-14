@@ -1,0 +1,138 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OxyPlot.Core/2.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/OxyPlot.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "OxyPlot.WindowsForms/2.1.0": {
+        "dependencies": {
+          "OxyPlot.Core": "2.1.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OxyPlot.WindowsForms.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "Syncfusion.Chart.Base/20.2.0.43": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.2.0.43",
+          "Syncfusion.Shared.Base": "20.2.0.43"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Chart.Base.dll": {
+            "assemblyVersion": "20.2500.0.43",
+            "fileVersion": "20.2500.0.43"
+          }
+        }
+      },
+      "Syncfusion.Chart.Windows/20.2.0.43": {
+        "dependencies": {
+          "Syncfusion.Chart.Base": "20.2.0.43",
+          "Syncfusion.Grouping.Base": "20.2.0.43",
+          "Syncfusion.Licensing": "20.2.0.43",
+          "Syncfusion.Shared.Base": "20.2.0.43"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Chart.Windows.dll": {
+            "assemblyVersion": "20.2500.0.43",
+            "fileVersion": "20.2500.0.43"
+          }
+        }
+      },
+      "Syncfusion.Grouping.Base/20.2.0.43": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.2.0.43",
+          "Syncfusion.Shared.Base": "20.2.0.43"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Grouping.Base.dll": {
+            "assemblyVersion": "20.2500.0.43",
+            "fileVersion": "20.2500.0.43"
+          }
+        }
+      },
+      "Syncfusion.Licensing/20.2.0.43": {
+        "runtime": {
+          "lib/net5.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "20.2.0.43",
+            "fileVersion": "20.2.0.43"
+          }
+        }
+      },
+      "Syncfusion.Shared.Base/20.2.0.43": {
+        "dependencies": {
+          "Syncfusion.Licensing": "20.2.0.43"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Shared.Base.dll": {
+            "assemblyVersion": "20.2500.0.43",
+            "fileVersion": "20.2500.0.43"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OxyPlot.Core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jG+Ct3T59fXDG2LE1hyUaXqH7i+h5Nfway1iB0+0NaY2mvDsz8Row/BKjiBWCt5NHp3+q9JSMiD2wpin2hh3kw==",
+      "path": "oxyplot.core/2.1.0",
+      "hashPath": "oxyplot.core.2.1.0.nupkg.sha512"
+    },
+    "OxyPlot.WindowsForms/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3ehmpvSbTKUOfUSeZdfIyed5kGMdgPGq/MCXi1NXqzDqQhbUZ6OwVrRnfcLKB32WtnDAzwAtchirEaAFPo5iig==",
+      "path": "oxyplot.windowsforms/2.1.0",
+      "hashPath": "oxyplot.windowsforms.2.1.0.nupkg.sha512"
+    },
+    "Syncfusion.Chart.Base/20.2.0.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yiy6rwfdLtwEkPQLPZaquZsQIq0Wuf6bMCgosQq7olMVQYkiwtcEjcGH6xfQMPAqCHxwNUblWwMMtOpnPoeeYQ==",
+      "path": "syncfusion.chart.base/20.2.0.43",
+      "hashPath": "syncfusion.chart.base.20.2.0.43.nupkg.sha512"
+    },
+    "Syncfusion.Chart.Windows/20.2.0.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bHkPgnZmtldsKfmW+MReXADHA9u5QqA6FDXpInwPgkp/KFCQU5FnZMN9ixsFPEQjEz2O7/jeF2P3+JEKAJeaiA==",
+      "path": "syncfusion.chart.windows/20.2.0.43",
+      "hashPath": "syncfusion.chart.windows.20.2.0.43.nupkg.sha512"
+    },
+    "Syncfusion.Grouping.Base/20.2.0.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7+eozJ6H9YlgmtmO4+c0LZJrODMe7s8F0NcOf7UB3pbtwGSHmGvxBhhm55II7FmhjjllCizN1pH/P8pwO61Scw==",
+      "path": "syncfusion.grouping.base/20.2.0.43",
+      "hashPath": "syncfusion.grouping.base.20.2.0.43.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/20.2.0.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6gcTsltYyA9EK7/FhIESvYAA1O9PrJQrXK1vyx3b0dbGa5oii22IBc4rmFIZvomrK7EFQDpkGpEtCQfUw+PMkA==",
+      "path": "syncfusion.licensing/20.2.0.43",
+      "hashPath": "syncfusion.licensing.20.2.0.43.nupkg.sha512"
+    },
+    "Syncfusion.Shared.Base/20.2.0.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o6dbGtt6vPNWKI2i1WUeVdMmKEfiXb2b7YYC7N5L3q2cb9m/vwYAFWJEBuPczpZU1P34SDLvCeW1oFwN7c4MdQ==",
+      "path": "syncfusion.shared.base/20.2.0.43",
+      "hashPath": "syncfusion.shared.base.20.2.0.43.nupkg.sha512"
+    }
+  }
+}

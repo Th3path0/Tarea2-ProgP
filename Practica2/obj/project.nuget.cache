@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4YAhNun2dwhF5qYX6F2m5qixlg+eOz/6A7VZwmT3WkrBZxIT+w/XtoC7WZPV79HYUkYiIHOTQ1W9gqKibvV/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YAEL\\Documents\\Itla\\6to Cuatri\\Programacion paralela\\Practica 2\\Practica2\\Practica2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YAEL\\.nuget\\packages\\oxyplot.core\\2.1.0\\oxyplot.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\YAEL\\.nuget\\packages\\oxyplot.windowsforms\\2.1.0\\oxyplot.windowsforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\YAEL\\.nuget\\packages\\syncfusion.chart.base\\20.2.0.43\\syncfusion.chart.base.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\YAEL\\.nuget\\packages\\syncfusion.chart.windows\\20.2.0.43\\syncfusion.chart.windows.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\YAEL\\.nuget\\packages\\syncfusion.grouping.base\\20.2.0.43\\syncfusion.grouping.base.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\YAEL\\.nuget\\packages\\syncfusion.licensing\\20.2.0.43\\syncfusion.licensing.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\YAEL\\.nuget\\packages\\syncfusion.shared.base\\20.2.0.43\\syncfusion.shared.base.20.2.0.43.nupkg.sha512",
+    "C:\\Users\\YAEL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
